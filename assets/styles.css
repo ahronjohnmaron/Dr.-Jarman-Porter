@@ -4027,3 +4027,22 @@
     opacity: 0;
   }
 }
+
+.site-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.site-brand__mark {
+  width: 2.25rem;
+  height: 2.25rem;
+  flex: 0 0 auto;
+}
+
+@media (max-width: 420px) {
+  .site-brand__mark {
+    width: 2rem;
+    height: 2rem;
+  }
+}

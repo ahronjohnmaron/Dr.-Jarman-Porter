@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Dr. Jarman Myron Porter monogram</title>
+  <desc id="desc">The initials JMP in gold on a royal blue shield.</desc>
+  <path fill="#152552" d="M32 2 57 11v18c0 15.2-9.8 27.4-25 33C16.8 56.4 7 44.2 7 29V11L32 2Z"/>
+  <path fill="none" stroke="#c9a34a" stroke-width="2" d="M32 6.2 53 13.7V29c0 12.7-7.8 23.2-21 28.5C18.8 52.2 11 41.7 11 29V13.7L32 6.2Z"/>
+  <text x="32" y="38" fill="#f2d382" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-weight="700" letter-spacing="-1" text-anchor="middle">JMP</text>
+</svg>
